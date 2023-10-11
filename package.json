@@ -1,0 +1,33 @@
+{
+  "_from": "git+https://github.com/mightymop/cordova-plugin-popup.git",
+  "_id": "cordova-plugin-popup@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-popup",
+  "_phantomChildren": {},
+
+  "author": "",
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-popup",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "cordova-plugin-popup",
+  "types": "./types/index.d.ts",
+  "version": "1.0.0"
+}
